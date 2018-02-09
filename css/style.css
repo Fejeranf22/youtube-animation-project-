@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: slategrey;
+}
+.container-list {
+  padding: 2px;
+}
+.cards {
+  height: 40px;
+  /* margin: 1px; */
+  background-color: blue;
+  border: 2px solid grey;
+}
+
+#boxeL {
+background-image:url("../img/tarot2.jpg");
+background-size: cover;
+background-repeat: none;
+}
